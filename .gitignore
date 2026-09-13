@@ -1,8 +1,0 @@
-*
-!src/
-!src/**
-!package.json
-!README.md
-!LICENSE
-src/.command_hash
-tempassets/
