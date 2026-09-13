@@ -3,19 +3,19 @@
 
 module.exports = {
 
-    BOT_NAME: 'Melon',
-    BOT_TOKEN: 'MTM5MDY2Mzg3NzU0NDUwOTU4MA.GygZd0.uFaM4y32MfuyhMyxi5mhIlRWQQYkxYfQe_04qE',
-    CLIENT_ID: '1390663877544509580',
-    OWNER_ID: '1124248109472550993', // owner-only commands
+    BOT_NAME: 'GUARDX',
+    BOT_TOKEN: 'MTU0NTYyNTM2MzQ1Mzk3MjUwMg.GHL1vh.jhVIZu_sNPsJusKp24g_0adaI-v9MReJJoyhj8',
+    CLIENT_ID: '1545625363453972502',
+    OWNER_ID: '1407345119602020385', // owner-only commands
 
-    PREFIX: ',', // default text command prefix
+    PREFIX: '.', // default text command prefix
 
     STATUS: {
         status: 'idle', // online / idle / dnd / invisible
-        activity: '.help | @Melon >3'
+        activity: '.help | @DVW90 >3'
     },
 
-    SUPPORT_SERVER: 'https://discord.gg/aerox',
+    SUPPORT_SERVER: 'https://discord.gg/ftwVfxZHee',
 
     DATABASE_URL: process.env.DATABASE_URL || 'postgresql://neondb_owner:npg_0sb7MUxrtugy@ep-little-water-adb9fuko.c-2.us-east-1.aws.neon.tech/neondb?sslmode=require',
 
